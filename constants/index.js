@@ -65,3 +65,8 @@ export const abi = [
       "type": "function"
     }
   ];
+
+  module.exports = {
+    WHITELIST_CONTRACT_ADDRESS,
+    abi,
+};  
